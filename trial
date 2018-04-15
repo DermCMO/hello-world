@@ -3,4 +3,8 @@ for i in range(10):
   print('Hello World')
 print(i)
 print('This is a change made to the file - master')
-pring('This is a second change made after branching the master')
+print('This is a second change made after branching the master')
+
+for j in range(5):
+	print('This is a new loop line #' + str(j))
+
